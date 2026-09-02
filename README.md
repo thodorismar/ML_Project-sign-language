@@ -10,7 +10,7 @@ Model Benchmarking & Tuning: Systematically evaluated several supervised learnin
 
 -Support Vector Machines (SVM): Benchmarked Linear and RBF kernels across various $C$ and $\gamma$ values.
 
--Decision Trees & Random Forests: Evaluated tree depth, leaf limits, splitting criteria (Gini, Entropy), and ensemble sizes.\
+-Decision Trees & Random Forests: Evaluated tree depth, leaf limits, splitting criteria (Gini, Entropy), and ensemble sizes.
 
 -AdaBoost & Multi-Layer Perceptrons (MLP): Tested decision-stump boosting and deep fully connected architectures.
 
